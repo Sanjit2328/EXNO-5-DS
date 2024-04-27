@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-04-27 at 10 05 14 (2)](https://github.com/Sanjit2328/EXNO-5-DS/assets/139331694/fe9d6db1-a114-4b21-8a69-ed8b80cfa20f)# EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
+
 
 # Aim:
   To Perform Data Visualization using matplot python library for the given datas.
