@@ -18,7 +18,9 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
- Include the necessary coding and corresponding screenshots
+
+![WhatsApp Image 2024-04-27 at 10 04 49](https://github.com/Sanjit2328/EXNO-5-DS/assets/139331694/640db907-ca66-4832-8ae4-0cbb052dc7e8)
+
 
 # Result:
  Include your result here
